@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.fadeIn {
+  @apply animate-fadeIn;
+}
+.bounceIn {
+  @apply animate-bounceIn;
+}
