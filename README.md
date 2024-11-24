@@ -1,7 +1,7 @@
-#Shopping Cart React Application
+# Shopping Cart React Application:
 This is a simple and responsive shopping cart application built with React. It allows users to browse products, add them to the shopping cart, view product details, and manage their cart by increasing/decreasing quantities or removing items.
 
-#Features
+# Features
  - Product List: Display a list of products fetched from an API.
  - Product Details Page: Users can view more detailed information about a product when clicked.
  - Add to Cart: Users can add products to the shopping cart.
@@ -10,13 +10,13 @@ This is a simple and responsive shopping cart application built with React. It a
  - Notifications: A notification appears when an item is added to the cart.
  - Responsive Design: The app is fully responsive and works on both desktop and mobile devices.
 
-#Tech Stack
+# Tech Stack
  - Frontend: React.js, Tailwind CSS
  - State Management: Context API & useReducer Hook
  - API: Fake Store API for fetching products
 
 
-#Project Structure
+# Project Structure
 The project is organized as follows:
 /public
   /index.html           # The main HTML file
